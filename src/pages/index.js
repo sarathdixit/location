@@ -14,11 +14,11 @@ const geistMono = Geist_Mono({
 export default function Home() {
   return (
     <div
-      className={`${geistSans.className} ${geistMono.className} font-[family-name:var(--font-geist-sans)] p-10`}
+      className={`${geistSans.className} ${geistMono.className} font-[family-name:var(--font-geist-sans)] p-4 lg:p-10`}
     >
-      <div class="grid grid-cols-1 gap-6">
+      <div class="grid grid-cols-1 lg:grid-cols-5 gap-6">
         <a
-          href="https://example.com/reception1"
+          href="https://maps.app.goo.gl/FtuEb2UbpcT55DAw9"
           class="block rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 bg-white overflow-hidden"
         >
           <img
@@ -27,14 +27,14 @@ export default function Home() {
             class="w-full h-48 object-cover"
           />
           <div class="p-4">
-            <h2 class="text-xl font-semibold text-gray-800">Reception 1</h2>
+            <h2 class="text-xl font-semibold text-gray-800">Reception</h2>
             <p class="text-gray-600">Date: 26/08/2025 Tuesday</p>
             <p class="text-gray-600">Location: Blue Bay Beach Resort</p>
           </div>
         </a>
 
         <a
-          href="https://example.com/reception2"
+          href="https://maps.app.goo.gl/FtuEb2UbpcT55DAw9"
           class="block rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 bg-white overflow-hidden"
         >
           <img
@@ -50,7 +50,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://example.com/reception3"
+          href="https://maps.app.goo.gl/Ui6cSHsFVCqn11wo6"
           class="block rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 bg-white overflow-hidden"
         >
           <img
@@ -59,7 +59,9 @@ export default function Home() {
             class="w-full h-48 object-cover"
           />
           <div class="p-4">
-            <h2 class="text-xl font-semibold text-gray-800">Reception 2</h2>
+            <h2 class="text-xl font-semibold text-gray-800">
+              Wedding Celebration
+            </h2>
             <p class="text-gray-600">Date: 3/09/2025 Wednesday</p>
             <p class="text-gray-600">Location: R.R Mahal, Vaniyambadi</p>
           </div>

@@ -38,7 +38,7 @@ export default function Home() {
           class="block rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 bg-white overflow-hidden"
         >
           <img
-            src="https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrtRYobDryCQHPqQEA0lk50GSwUIwaoBsX11-eJhPCAwT6rUCG8GTW0tIkhehkk1NBZpD6WRaZuaqOlZgTut39jKV0e73CsL-6r2Nh0rj6DZLFgZkLElkpF4F9GXq4a3K9ODXQ=s1360-w1360-h1020-rw"
+            src="https://ddyeventwedding.com/wp-content/uploads/2022/06/indian-wedding-in-phuket-wedding-mandap-on-beach-angsana-scaled.jpg"
             alt="Reception 2"
             class="w-full h-48 object-cover"
           />
